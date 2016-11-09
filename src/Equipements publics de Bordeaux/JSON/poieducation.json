@@ -1,0 +1,1084 @@
+{"type":"FeatureCollection",
+"features":[
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Montaud"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.55447793065199,44.8413305452594,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Cazemajor"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569335285909121,44.8242278061674,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Beck"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.550965680035777,44.8237515977361,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Conservatoire Jacques Thibaud"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.559761449556435,44.8314735336634,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Henri IV"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576114758488725,44.8325755048473,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Bon Pasteur"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.599040567518977,44.8470694184455,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Menuts"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.567490180592419,44.8329455111254,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Paix"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.588591298327565,44.8437053413673,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Stéhélin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.624373496904539,44.8569860920593,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Saint André"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.615633968715867,44.8548952814368,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Lac II"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569845322686287,44.8727399534919,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Benauge"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.545467003619194,44.8462197201296,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Menuts"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.567331973751481,44.8333276731152,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Stendhal"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.568400274399978,44.8563882628963,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Lac III"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574897231231871,44.8750171172332,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Condorcet"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.580072929574423,44.8589399488308,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Francin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.561373638615043,44.8244186420298,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Saint Bruno"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.589521498186354,44.8385131980181,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Jean Monnet"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574501622153541,44.872920047126,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Stendhal"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.56800623302867,44.8561010120436,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Sousa Mendes"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.570973806595309,44.8638512927303,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Argonne"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576102106402274,44.827488259415,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Anatole France"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.582319868406437,44.8390103568129,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Balguerie"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569773835604797,44.856515840459,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Lagrange"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.583335452130717,44.8507446123758,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Naujac"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.584972138811141,44.8477768199648,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Paul Lapie"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.615256988865278,44.851185998904,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Saint Michel"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.566854917866641,44.8338996419148,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Nuyens"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.561602525781096,44.8446369357307,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Saint Seurin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.58997320034672,44.8437514216124,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Nuyens"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.561247855964491,44.8443756899922,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Saint Bruno"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.589270609913704,44.8380513089314,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Jean Monnet"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574293001732203,44.8727992341853,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Flornoy"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.609646812666569,44.8332837675547,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Flornoy"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.610564897212831,44.83317032475,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Nuits"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.553716181260891,44.8415386782168,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Rock School Barbey"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.56256303289267,44.8274863708908,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole du Cirque"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.561364932424993,44.8715389730358,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Pins Francs"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.625137360418585,44.858821490874,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Saint Gabriel"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.589313097423492,44.8462623799653,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Vaclav Havel"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.571951303315331,44.8802056716655,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Jacques Prévert"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.586090060167888,44.8242827042556,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Alphonse Dupeux"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.588716899564366,44.8312758709457,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire David Johnston"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.584626774797832,44.8507480245209,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Deyries Sablières"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574125895757045,44.8261693368375,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Albert Barraud"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.586610072942437,44.8445838519938,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Albert Schweitzer"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.580784844484795,44.86204654042,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Raymond Poincaré"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.619519118989713,44.8445938058908,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Francis de Pressensé"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.575595349211268,44.8323094471799,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Paul Berthelot"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572112033194457,44.8564390618662,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Ferdinand Buisson"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.550879439893571,44.8237987739627,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire L'Assomption"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.594363253050396,44.8521363067669,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Alphonse Dupeux"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.588593270850824,44.8310808978086,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Saint Ferdinand"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.622899911146813,44.8641464484701,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Saint Julien Victoire"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572543686736514,44.8281287455902,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Saint Louis - Sainte Thérèse"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574682489872842,44.8521243013726,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Charles Martin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.552546684087625,44.8745148042218,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Carle Vernet"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.555670059876923,44.8157640751242,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Sousa Mendes"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.570422015437927,44.8637030797431,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Paul Lapie"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.615225129694624,44.8520602594335,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole d'enseignement supérieur d'art de Bordeaux - EBABX"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.560561050805088,44.8304990274583,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Albert Schweitzer"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.580466573236072,44.8617574194043,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Clos Montesquieu"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.631343573607823,44.844894280781,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Sainte Monique"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.607784149969315,44.8349970723336,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Saint Genès"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.58090838514396,44.8249040592416,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Saint Joseph de Tivoli"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.596906072789333,44.8536781651991,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Sainte Marie Grand Lebrun"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.606068659450576,44.850293018859,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire André Meunier"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.564260914414194,44.8303432322149,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Loucheur"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.600037341138788,44.8223444562493,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Condorcet"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.579259471243062,44.859383664244,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Fieffé"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.560901355779213,44.8240793037428,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Pierre Trébot"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.585095077259788,44.8598757457137,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Achard"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.547860264617536,44.8716693120422,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Thiers"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.543280631977446,44.8501460501298,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Somme"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572096310579154,44.8181703464995,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Paul Bert"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574358572983837,44.8361945224202,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Achard"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.547715592422604,44.8718169868364,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Bel Air"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.607776436230809,44.8391213922746,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Benauge"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.545140137651899,44.8457506335697,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Labarde"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.551671264693196,44.8819201587296,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Sainte Thérèse"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.612164395976106,44.8237697168904,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Bernard Adour"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.60528320263513,44.8386175543527,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Jules Ferry"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.60621525470459,44.8430601295443,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Charles Martin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.552906150475585,44.8746138800864,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Vieux Bordeaux"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.571084424383803,44.8416165572332,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Albert Thomas"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.597233845508405,44.8287639037142,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Béchade"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.59690192289528,44.8256747331573,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Dupaty"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.561415451039343,44.860543394683,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Jules Ferry"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.605574618244184,44.8426532126679,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Le Point du Jour"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.549418601934002,44.8801574975953,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Notre Dame"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.580123456243713,44.8401839562396,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Pins Francs"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.625245894819354,44.8592149156134,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Montgolfier"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.577306705403472,44.8522022943475,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Franc Sanson"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.544057925089921,44.8307042514915,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Raymond Poincaré"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.62022064967946,44.8444498073337,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Lac II"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569182164427155,44.8729006785022,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Joséphine"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.562261648480828,44.8599909357878,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Jean Cocteau"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.600606287875099,44.8483173178771,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Yser"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.570046517000919,44.8242819635529,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Noviciat"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.564254230856258,44.8302083325184,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Carle Vernet"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.555622429424423,44.8160804246703,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Albert Legrand"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.582235895170833,44.8240152970315,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Anatole France"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.58224232014394,44.8387241691881,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Paul Antin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.571477803733305,44.8187081719301,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Solferino"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.585016158026839,44.8235534614247,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Paul Doumer"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.616941267864067,44.8569689866746,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Pas Saint Georges"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.571882012132239,44.8383098636573,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Paul Bert"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.575008430442008,44.8365383421238,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Sainte Marie La Bastide"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.552019260708818,44.8425445464764,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Lucien Faure"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.554027182834601,44.860908324529,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Montgolfier"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.578290500465746,44.852384609552,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Thiers"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.542537377455785,44.8502185793858,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Paul Doumer"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.616647869016392,44.8574267073722,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Jean Cocteau"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.602373883757068,44.8482273929346,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Albert Thomas"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.596563150836882,44.8287629109557,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Barbey"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.562645644727438,44.8281326229709,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Maternelle Franc Sanson"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.544058062818567,44.8314786274256,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Vaclav Havel"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.571818295761244,44.8805871966826,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole Elémentaire Stéhélin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.624700275971241,44.8554379348027,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/orange-dot.png",
+"description":"Ecole maternelle et élémentaire Sévigné"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576623166806662,44.8363232565712,0]}
+}
+
+]}

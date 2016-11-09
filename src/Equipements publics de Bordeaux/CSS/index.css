@@ -1,0 +1,104 @@
+body {
+  padding: 0;
+  margin: 0;
+background-image:linear-gradient(white, #6d071a);
+overflow-x: hidden;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  top:0;
+  margin:0;
+  background-color: #6d071a;
+  margin-top: 0;
+  padding: 5px;
+  padding-bottom: 5px;
+  float:right;
+}
+
+h1 {
+  font-size: 230%;
+  color: white;
+  text-align:center;
+  text-transform:uppercase;
+}
+
+
+
+
+
+#logo {
+Top:0px;
+left : 0px;
+position: absolute;
+width: 110px;
+
+}
+
+h2 {
+    margin-left: 300px;
+    font-size: 3em;
+}
+
+a {
+  text-decoration: none;
+  color: #6d071a;
+  font-size: 128%;
+  font-family: sans-serif;
+}
+
+a:hover {
+  color: red;
+}
+
+
+ul li {
+	   list-style-type : none;
+	    text-align:center;
+		   margin-top:6px;
+}
+
+#title {
+  margin-top: 150px;
+  font-size: 3em;
+   text-align:center;
+   text-decoration: underline;
+   color: #6d071a;
+}
+
+#lien_quartier {
+text-align: center;	
+font-size: 25px;
+}
+
+#list {
+  margin-left: 10%;
+  float: left;
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 35%;
+  height: 450px;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+#list2 {
+  margin-right: 10%;
+  float: right;
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 35%;
+  height: 450px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#droit {
+  position: fixed;
+  margin-left: 1650px;
+  margin-top: 675px;
+  color: white;
+  text-decoration: underline;
+  font-size: 15px;
+}

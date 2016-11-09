@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Equipements public de Bordeaux</title>
+  <link rel="icon" type="image/png" href="images/logo.png" />
+  <link href="CSS/quartier.css" rel="stylesheet" type="text/css"/>
+
+  <style>
+  .map {
+  width: 1200px;
+  height: 600px;
+  background-color: #CCC;
+  margin-left: 400px;
+  margin-right: 30%;
+  border: solid black 3px;
+  border-radius: 9px;
+  float: left;
+  position: relative;
+  margin-bottom: 50px;
+  }
+
+
+    </style>
+
+  <script src="https://maps.googleapis.com/maps/api/js"></script>
+
+  <script>
+    // la carte
+      var quartier1;
+      var quartier2;
+      var quartier3;
+      var quartier4;
+      var quartier5;
+      var quartier6;
+      var quartier7;
+      var quartier8;
+    // la fenetre qui s'ouvre quand on passe la souris sur un point
+    var infowindow = new google.maps.InfoWindow();
+
+    // fonction executee une fois la page chargee
+      function initialize() {
+
+      // initialisation de la carte
+        var mapOptions1 = {
+          zoom: 15,
+          center: {lat: 44.841523, lng: -0.583478},
+          mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+        var mapOptions2 = {
+          zoom: 15,
+          center: {lat: 44.860040, lng: -0.568798},
+          mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+
+        var mapOptions3 = {
+          zoom: 15,
+          center: {lat: 44.852611, lng: -0.620225},
+          mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+
+        var mapOptions4 = {
+          zoom: 15,
+          center: {lat: 44.826958, lng: -0.601498},
+          mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+
+        var mapOptions5 = {
+          zoom: 15,
+          center: {lat: 44.820488, lng: -0.571960},
+          mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+
+        var mapOptions6 = {
+          zoom: 15,
+          center: {lat: 44.827601, lng: -0.558798},
+          mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+
+        var mapOptions7 = {
+          zoom: 15,
+          center: {lat: 44.845965, lng: -0.551104},
+          mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+
+        var mapOptions8 = {
+          zoom: 15,
+          center: {lat: 44.892453, lng: -0.555051},
+          mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+
+        quartier1 = new google.maps.Map(document.getElementById('quartier1'),
+          mapOptions1);
+        quartier2 = new google.maps.Map(document.getElementById('quartier2'),
+          mapOptions2);
+        quartier3 = new google.maps.Map(document.getElementById('quartier3'),
+          mapOptions3);
+        quartier4 = new google.maps.Map(document.getElementById('quartier4'),
+          mapOptions4);
+        quartier5 = new google.maps.Map(document.getElementById('quartier5'),
+          mapOptions5);
+        quartier6 = new google.maps.Map(document.getElementById('quartier6'),
+          mapOptions6);
+        quartier7 = new google.maps.Map(document.getElementById('quartier7'),
+          mapOptions7);
+        quartier8 = new google.maps.Map(document.getElementById('quartier8'),
+          mapOptions8);
+
+      // un clic sur la carte ferme les infowindows
+        google.maps.event.addListener(quartier1, 'click', function() {
+          infowindow.close();
+        });
+        google.maps.event.addListener(quartier2, 'click', function() {
+          infowindow.close();
+        });
+        google.maps.event.addListener(quartier3, 'click', function() {
+          infowindow.close();
+        });
+        google.maps.event.addListener(quartier4, 'click', function() {
+          infowindow.close();
+        });
+        google.maps.event.addListener(quartier5, 'click', function() {
+          infowindow.close();
+        });
+        google.maps.event.addListener(quartier6, 'click', function() {
+          infowindow.close();
+        });
+        google.maps.event.addListener(quartier7, 'click', function() {
+          infowindow.close();
+        });
+        google.maps.event.addListener(quartier8, 'click', function() {
+          infowindow.close();
+        });
+
+
+      // on charge les points depuis les fichiers json
+      quartier1.data.loadGeoJson('JSON/airejeux.json');
+      quartier2.data.loadGeoJson('JSON/airejeux.json');
+      quartier3.data.loadGeoJson('JSON/airejeux.json');
+      quartier4.data.loadGeoJson('JSON/airejeux.json');
+      quartier5.data.loadGeoJson('JSON/airejeux.json');
+      quartier6.data.loadGeoJson('JSON/airejeux.json');
+      quartier7.data.loadGeoJson('JSON/airejeux.json');
+      quartier8.data.loadGeoJson('JSON/airejeux.json');
+
+	  quartier1.data.loadGeoJson('JSON/parcjardin.json');
+      quartier2.data.loadGeoJson('JSON/parcjardin.json');
+      quartier3.data.loadGeoJson('JSON/parcjardin.json');
+      quartier4.data.loadGeoJson('JSON/parcjardin.json');
+      quartier5.data.loadGeoJson('JSON/parcjardin.json');
+      quartier6.data.loadGeoJson('JSON/parcjardin.json');
+      quartier7.data.loadGeoJson('JSON/parcjardin.json');
+      quartier8.data.loadGeoJson('JSON/parcjardin.json');
+
+
+	  quartier1.data.loadGeoJson('JSON/poiculture.json');
+      quartier2.data.loadGeoJson('JSON/poiculture.json');
+      quartier3.data.loadGeoJson('JSON/poiculture.json');
+      quartier4.data.loadGeoJson('JSON/poiculture.json');
+      quartier5.data.loadGeoJson('JSON/poiculture.json');
+      quartier6.data.loadGeoJson('JSON/poiculture.json');
+      quartier7.data.loadGeoJson('JSON/poiculture.json');
+      quartier8.data.loadGeoJson('JSON/poiculture.json');
+
+
+	  quartier1.data.loadGeoJson('JSON/poieducation.json');
+      quartier2.data.loadGeoJson('JSON/poieducation.json');
+      quartier3.data.loadGeoJson('JSON/poieducation.json');
+      quartier4.data.loadGeoJson('JSON/poieducation.json');
+      quartier5.data.loadGeoJson('JSON/poieducation.json');
+      quartier6.data.loadGeoJson('JSON/poieducation.json');
+      quartier7.data.loadGeoJson('JSON/poieducation.json');
+      quartier8.data.loadGeoJson('JSON/poieducation.json');
+
+	  quartier1.data.loadGeoJson('JSON/poienfance.json');
+      quartier2.data.loadGeoJson('JSON/poienfance.json');
+      quartier3.data.loadGeoJson('JSON/poienfance.json');
+      quartier4.data.loadGeoJson('JSON/poienfance.json');
+      quartier5.data.loadGeoJson('JSON/poienfance.json');
+      quartier6.data.loadGeoJson('JSON/poienfance.json');
+      quartier7.data.loadGeoJson('JSON/poienfance.json');
+      quartier8.data.loadGeoJson('JSON/poienfance.json');
+
+
+	  quartier1.data.loadGeoJson('JSON/poiservices.json');
+      quartier2.data.loadGeoJson('JSON/poiservices.json');
+      quartier3.data.loadGeoJson('JSON/poiservices.json');
+      quartier4.data.loadGeoJson('JSON/poiservices.json');
+      quartier5.data.loadGeoJson('JSON/poiservices.json');
+      quartier6.data.loadGeoJson('JSON/poiservices.json');
+      quartier7.data.loadGeoJson('JSON/poiservices.json');
+      quartier8.data.loadGeoJson('JSON/poiservices.json');
+
+
+	  quartier1.data.loadGeoJson('JSON/poisocial.json');
+      quartier2.data.loadGeoJson('JSON/poisocial.json');
+      quartier3.data.loadGeoJson('JSON/poisocial.json');
+      quartier4.data.loadGeoJson('JSON/poisocial.json');
+      quartier5.data.loadGeoJson('JSON/poisocial.json');
+      quartier6.data.loadGeoJson('JSON/poisocial.json');
+      quartier7.data.loadGeoJson('JSON/poisocial.json');
+      quartier8.data.loadGeoJson('JSON/poisocial.json');
+
+
+	  quartier1.data.loadGeoJson('JSON/poisport.json');
+      quartier2.data.loadGeoJson('JSON/poisport.json');
+      quartier3.data.loadGeoJson('JSON/poisport.json');
+      quartier4.data.loadGeoJson('JSON/poisport.json');
+      quartier5.data.loadGeoJson('JSON/poisport.json');
+      quartier6.data.loadGeoJson('JSON/poisport.json');
+      quartier7.data.loadGeoJson('JSON/poisport.json');
+      quartier8.data.loadGeoJson('JSON/poisport.json');
+
+
+	  quartier1.data.loadGeoJson('JSON/sigaccesinternet.json');
+      quartier2.data.loadGeoJson('JSON/sigaccesinternet.json');
+      quartier3.data.loadGeoJson('JSON/sigaccesinternet.json');
+      quartier4.data.loadGeoJson('JSON/sigaccesinternet.json');
+      quartier5.data.loadGeoJson('JSON/sigaccesinternet.json');
+      quartier6.data.loadGeoJson('JSON/sigaccesinternet.json');
+      quartier7.data.loadGeoJson('JSON/sigaccesinternet.json');
+      quartier8.data.loadGeoJson('JSON/sigaccesinternet.json');
+
+
+	  quartier1.data.loadGeoJson('JSON/sigparkpub.json');
+      quartier2.data.loadGeoJson('JSON/sigparkpub.json');
+      quartier3.data.loadGeoJson('JSON/sigparkpub.json');
+      quartier4.data.loadGeoJson('JSON/sigparkpub.json');
+      quartier5.data.loadGeoJson('JSON/sigparkpub.json');
+      quartier6.data.loadGeoJson('JSON/sigparkpub.json');
+      quartier7.data.loadGeoJson('JSON/sigparkpub.json');
+      quartier8.data.loadGeoJson('JSON/sigparkpub.json');
+
+
+	  quartier1.data.loadGeoJson('JSON/sigsanitaire.json');
+      quartier2.data.loadGeoJson('JSON/sigsanitaire.json');
+      quartier3.data.loadGeoJson('JSON/sigsanitaire.json');
+      quartier4.data.loadGeoJson('JSON/sigsanitaire.json');
+      quartier5.data.loadGeoJson('JSON/sigsanitaire.json');
+      quartier6.data.loadGeoJson('JSON/sigsanitaire.json');
+      quartier7.data.loadGeoJson('JSON/sigsanitaire.json');
+      quartier8.data.loadGeoJson('JSON/sigsanitaire.json');
+
+
+	  quartier1.data.loadGeoJson('JSON/sigstavelo.json');
+      quartier2.data.loadGeoJson('JSON/sigstavelo.json');
+      quartier3.data.loadGeoJson('JSON/sigstavelo.json');
+      quartier4.data.loadGeoJson('JSON/sigstavelo.json');
+      quartier5.data.loadGeoJson('JSON/sigstavelo.json');
+      quartier6.data.loadGeoJson('JSON/sigstavelo.json');
+      quartier7.data.loadGeoJson('JSON/sigstavelo.json');
+      quartier8.data.loadGeoJson('JSON/sigstavelo.json');
+
+
+      // on utilise la propriete icon dans le json pour l'icone a afficher
+      var setColorStyleFn = function(feature) {
+        return {icon: feature.getProperty('icon')};
+      };
+      quartier1.data.setStyle(setColorStyleFn);
+      quartier2.data.setStyle(setColorStyleFn);
+      quartier3.data.setStyle(setColorStyleFn);
+      quartier4.data.setStyle(setColorStyleFn);
+      quartier5.data.setStyle(setColorStyleFn);
+      quartier6.data.setStyle(setColorStyleFn);
+      quartier7.data.setStyle(setColorStyleFn);
+      quartier8.data.setStyle(setColorStyleFn);
+
+        // quand on passe la souris sur un point,
+        // afficher une fenetre avec des infos
+        // provenant de la propriete 'description' du point dans le json
+      quartier.data.addListener('mouseover', function(event) {
+          infowindow.setContent(event.feature.getProperty('description'));
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+          infowindow.open(quartier);
+        });
+      quartier.data.addListener('mouseover', function(event) {
+          infowindow.setContent(event.feature.getProperty('description'));
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+          infowindow.open(quartier);
+        });
+      quartier.data.addListener('mouseover', function(event) {
+          infowindow.setContent(event.feature.getProperty('description'));
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+          infowindow.open(quartier);
+        });
+      quartier.data.addListener('mouseover', function(event) {
+          infowindow.setContent(event.feature.getProperty('description'));
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+          infowindow.open(quartier);
+        });
+      quartier.data.addListener('mouseover', function(event) {
+          infowindow.setContent(event.feature.getProperty('description'));
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+          infowindow.open(quartier);
+        });
+      quartier.data.addListener('mouseover', function(event) {
+          infowindow.setContent(event.feature.getProperty('description'));
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+          infowindow.open(quartier);
+        });
+      quartier.data.addListener('mouseover', function(event) {
+          infowindow.setContent(event.feature.getProperty('description'));
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+          infowindow.open(quartier);
+        });
+      quartier.data.addListener('mouseover', function(event) {
+          infowindow.setContent(event.feature.getProperty('description'));
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+          infowindow.open(quartier);
+        });
+
+
+    } // fin initialize
+
+      // appelle initialize une fois la page chargee
+      google.maps.event.addDomListener(window, 'load', initialize);
+  </script>
+
+</head>
+
+
+
+  <body>
+
+    <nav id="bal_logo"><a href=index.html><img id="logo" src="images/logo.png" alt="Logo" /></a></nav>
+
+
+    <header>
+      <h1>Quartiers</h1>
+    </header>
+
+    <nav id="sidebar">
+      <ul>
+        <li><a id="Q" href="quartier.html">Quartiers</li></a>
+        <li><a href="page1.html">Établissements Culturels</a>
+          <img src="images/red-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page2.html">Écoles maternelles et Primaires</a>
+          <img src="images/orange-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page3.html">Établissements pour la petite <br>enfance</a>
+          <img src="images/yellow-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page4.html">Établissement et lieux de <br>services</a>
+          <img src="images/green-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page5.html">Établissements sociaux</a>
+          <img src="images/turquoise-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page6.html">Lieux de sports et loisirs</a>
+          <img src="images/sky-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page7.html">Toilettes publiques</a>
+          <img src="images/blue-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page8.html">Les parkings publics</a>
+          <img src="images/black-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page9.html">Les points d’accès à internet</a>
+          <img src="images/brown-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page10.html"> Les mobiliers urbains pour le stationnement des 2 roues</a>
+          <img src="images/purple-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page11.html">Les Aires de jeux</a>
+          <img src="images/grey-dot.png" alt="pointeur" /><br></li>
+        <li><a href="page12.html">Parcs, jardins et squares</a>
+          <img  src="images/white-dot.png" alt="pointeur" /><br></li>
+      </ul>
+    </nav>
+
+    <h2 class="q"> Centre-Ville : </h2>
+    <div id="quartier1" class="map"></div>
+    </div>
+
+    <h2 class="q"> Chartrons : </h2>
+    <div id="quartier2" class="map"></div>
+    </div>
+
+    <h2 class="q"> Caudéran : </h2>
+    <div id="quartier3" class="map"></div>
+    </div>
+
+    <h2 class="q"> Saint-Augustin : </h2>
+    <div id="quartier4" class="map"></div>
+    </div>
+
+    <h2 class="q"> Nansouty : </h2>
+    <div id="quartier5" class="map"></div>
+    </div>
+
+    <h2 class="q"> Bordeaux Sud : </h2>
+    <div id="quartier6" class="map"></div>
+    </div>
+
+    <h2 class="q"> La Bastide : </h2>
+    <div id="quartier7" class="map"></div>
+    </div>
+
+    <h2 class="q"> Bordeaux Maritime : </h2>
+    <div id="quartier8" class="map"></div>
+    </div>
+
+    <p id="droit">GTB©  -Tous droits reservés.-</p>
+
+
+  </body>
+</html>

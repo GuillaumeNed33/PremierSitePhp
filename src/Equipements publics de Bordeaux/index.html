@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Equipements public de Bordeaux</title>
+    <link rel="icon" type="image/png" href="images/logo.png" />
+    <link href="CSS/index.css" rel="stylesheet" type="text/css"/>
+      <style>
+          #map-canvas {
+          width: 1200px;
+          height: 800px;
+          background-color: #CCC;
+          left: 18%;
+          border: solid black 3px;
+          border-radius: 9px;
+          float: left;
+          margin-top: 30px;
+          margin-bottom: 50px;
+          }
+        </style>
+
+      <script src="https://maps.googleapis.com/maps/api/js"></script>
+
+      <script>
+        // la carte
+          var map;
+        // la fenetre qui s'ouvre quand on passe la souris sur un point
+        var infowindow = new google.maps.InfoWindow();
+
+        // fonction executee une fois la page chargee
+          function initialize() {
+
+          // initialisation de la carte
+            var mapOptions = {
+              zoom: 13,
+              center: {lat: 44.858353, lng: -0.566917},
+              mapTypeId: google.maps.MapTypeId.TERRAIN
+            };
+            map = new google.maps.Map(document.getElementById('map-canvas'),
+              mapOptions);
+
+          // un clic sur la carte ferme les infowindows
+            google.maps.event.addListener(map, 'click', function() {
+              infowindow.close();
+            });
+
+          // on charge les points depuis les fichiers json
+          map.data.loadGeoJson('JSON/airejeux.json');
+		  map.data.loadGeoJson('JSON/parcjardin.json');
+		  map.data.loadGeoJson('JSON/poiculture.json');
+		  map.data.loadGeoJson('JSON/poieducation.json');
+		  map.data.loadGeoJson('JSON/poienfance.json');
+		  map.data.loadGeoJson('JSON/poiservices.json');
+		  map.data.loadGeoJson('JSON/poisocial.json');
+		  map.data.loadGeoJson('JSON/poisport.json');
+		  map.data.loadGeoJson('JSON/sigaccesinternet.json');
+		  map.data.loadGeoJson('JSON/sigparkpub.json');
+		  map.data.loadGeoJson('JSON/sigsanitaire.json');
+		  map.data.loadGeoJson('JSON/sigstavelo.json');
+
+          // on utilise la propriete icon dans le json pour l'icone a afficher
+          var setColorStyleFn = function(feature) {
+            return {icon: feature.getProperty('icon')};
+          };
+          map.data.setStyle(setColorStyleFn);
+
+            // quand on passe la souris sur un point,
+            // afficher une fenetre avec des infos
+            // provenant de la propriete 'description' du point dans le json
+          map.data.addListener('mouseover', function(event) {
+              infowindow.setContent(event.feature.getProperty('description'));
+              infowindow.setPosition(event.latLng);
+              infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+              infowindow.open(map);
+            });
+
+        } // fin initialize
+
+          // appelle initialize une fois la page chargee
+          google.maps.event.addDomListener(window, 'load', initialize);
+      </script>
+  </head>
+  <body>
+    <header>
+      <h1>Accueil</h1>
+    </header>
+
+    <a href="index.html"><img id="logo" src="images/logo.png" alt="Logo" /></a>
+
+      <p id="title">Équipements publics :</p>
+
+	  <p id="lien_quartier"><a href="quartier.html">  Vue par quartier  </a></p>
+
+      <nav id=list>
+        <ul>
+          <li>  <a href="page1.html">Établissements culturels</a><img src="images/red-dot.png" alt="pointeur" /><br></li><br>
+          <li>  <a href="page2.html">Écoles Maternelles et Primaires</a><img src="images/orange-dot.png" alt="pointeur" /><br></li><br>
+          <li>  <a href="page3.html">Établissements pour la petite enfance</a>  <img src="images/yellow-dot.png" alt="pointeur" /><br></li><br>
+          <li>  <a href="page4.html">Établissements et lieux de services</a><img src="images/green-dot.png" alt="pointeur" /><br></li><br>
+          <li>  <a href="page5.html">Établissements sociaux</a><img src="images/turquoise-dot.png" alt="pointeur" /><br></li><br>
+          <li>  <a href="page6.html">Lieux de sports et loisirs</a><img src="images/sky-dot.png" alt="pointeur" /><br></li><br>
+        </ul>
+      </nav>
+      <nav id=list2>
+        <ul>
+          <li>  <a href="page7.html">Toilettes publiques</a><img src="images/blue-dot.png" alt="pointeur" /><br></li><br>
+          <li>  <a href="page8.html">Les parkings publics</a><img src="images/black-dot.png" alt="pointeur" /><br></li><br>
+          <li>  <a href="page9.html">Les points d'accès à <br>internet</a><img src="images/brown-dot.png" alt="pointeur" /><br></li><br>
+          <li>  <a href="page10.html">Les mobiliers urbains pour le stationnement 2 roues</a><img src="images/purple-dot.png" alt="pointeur" /><br></li><br>
+          <li>  <a href="page11.html">Les Aires de jeux</a><img src="images/grey-dot.png" alt="pointeur" /><br></li><br>
+          <li>  <a href="page12.html">Parcs, jardins et squares</a>  <img  src="images/white-dot.png" alt="pointeur" /><br></li>
+        </ul>
+      </nav>
+
+    <div id="map-canvas"></div>
+
+	<p id="droit">GTB©  -Tous droits reservés.-</p>
+
+  </body>
+  </html>

@@ -1,0 +1,787 @@
+{"type":"FeatureCollection",
+"features":[
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Armand Faulat 1"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.613455391671063,44.846333450757,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Claveau"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.543447701590002,44.8795228781871,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"APEEF - le Jardin de l'Eau Vive"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.562757035634496,44.8310835971023,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Magendie"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.575184079991564,44.8334543745651,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Carreire"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.609184789028589,44.8238496375736,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Pitchoun Gambetta"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.581357989965014,44.8412947664553,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Pitchoun Caudéran"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.605044102677771,44.8499784370585,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Ornano"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.597625407422127,44.8315273908437,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"APEEF -  La Maison des enfants"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576382185307366,44.8331180443766,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil APEEF Maison des enfants"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576506205406451,44.8331283367483,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil La maison soleil"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.552134329415273,44.8415421836205,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil des Douves 2"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.563568819937014,44.8299103691226,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"La parentèle"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.589271168390679,44.8375560439148,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Grand Parc 2"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.583477809196919,44.8589260886981,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Relais Assistance Maternelle Bordeaux centre (RAM)"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.586867450948258,44.8444152648642,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Arc en ciel"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.573263561362849,44.8747610659111,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Haussmann"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.573483717789341,44.8641663722355,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Gaspard Philippe"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.566661075573347,44.8335786365293,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Relais Assistante Maternelle Bordeaux Bastide (RAM)"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.56131739057073,44.8450132621432,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Coucou"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.602141313129211,44.8335107800426,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Manon Cormier"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.593738481581731,44.8299691148406,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil La Coccinelle"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.635514742954322,44.8601564583436,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil - L'escale des bambins"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.585127111957575,44.8310693941893,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Nuage bleu"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569677331412132,44.8639715708016,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Armand Faulat 2"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.613462140764023,44.8462162184756,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Crèche familiale Bordeaux Nord"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.573045097250744,44.8744424022175,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Argentiers"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.570311761332685,44.8395649512801,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Canaillous Lafitteau"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.553665122476894,44.8246116053298,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Crèche familiale Caudéran"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.61349966116373,44.8464583863268,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Malbec-Nansouty"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.571581993668337,44.8205514852391,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Albert Barraud"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.586818683333194,44.8444525157007,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Benauge 1"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.543666576233495,44.8461565181819,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Canaillous-Brascassat"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.556578590320932,44.8149489425187,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Babilou Mirassou 1"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.566965236468354,44.8215949987944,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Cité administrative"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.605055451161187,44.8426484100666,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Grand Parc 1"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.583774011113766,44.8590266651569,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil des Chartrons 1"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.565873752972249,44.8623675690834,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Les petits bouchons"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576524552549645,44.8369610095073,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil George V"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.584990654949867,44.8227887151511,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Relais Assistante Maternelle Bordeaux maritime (RAM)"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574892327907944,44.8606031076607,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Barreyre 1"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.570474291108388,44.8563451645699,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil - APEEF - le Jardin de l'eau vive"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.562757035634496,44.8310835971023,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Bordeaux Saint Bruno"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.591100070907305,44.8386983582926,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil La souris verte"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572186363719207,44.8558969270766,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Saint Augustin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.608255136014903,44.8325358138727,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"APEEF - Association petite Enfance. Enfance et Famille"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.552229700721131,44.8419359951469,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Crèche familiale Bordeaux centre"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.587588708097428,44.832249888676,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Pitchoun Bastide - Centre petite enfance"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.553919380514301,44.8425781111829,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Crèche familiale Grand Parc"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.58362272926674,44.8590394885562,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil des Douves 1"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.563258825655542,44.8297830767913,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Antenne du Relais Assistante Maternelle"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.613653573190814,44.8462473539588,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Babilou - ile aux oiseaux"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.584749233548152,44.8381181158876,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Quai des Bambins"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.628582156862608,44.8443527930635,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Babilou Mirassou 2"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.566965236468354,44.8215949987944,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"APEEF - La Maison Soleil"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.552120801215176,44.8415245127238,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Ptit Bout'chou"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.588958224263167,44.8462353389024,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Villa Pia"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.583089003073932,44.8252499853775,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Pitchoun les 4 saisons"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.586815767667372,44.8522504985567,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Benauge 2"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.543673907517593,44.8460482833387,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil les calins d'orme"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.59439674249826,44.8503402392997,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Alema Alain Babillot"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.593525160188627,44.8423349396576,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Le jardin d'Hortense"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.556367766802609,44.8460002975067,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Sainte Colombe 1"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569703556407657,44.8375129491792,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Canaillous Armagnac"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.55070032614895,44.8225096339734,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Alema les Sablières"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.575499313453596,44.8258670818047,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Les chartrons 2"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.566148238091259,44.8621639635694,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Carle Vernet 2"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.549443249540262,44.8180371550079,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Lucilann"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.616063544365905,44.8414222465629,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Pain d'épices"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.593889936783258,44.8231817773015,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Micro crèche Lucilann"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.628827094469124,44.8648456754203,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"La maison de Nolan"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.551024244030592,44.8233044375224,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Ludothèque Interlude Bastide"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.561022932129432,44.8448736041949,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil brin d'éveil"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574121565737777,44.8484611272117,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil La Berge du lac 1"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.57231197927043,44.8806988701545,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Sainte Colombe 2"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569920784601189,44.8375228405222,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil La berge du lac 2"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572088091749046,44.8806318925711,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Barreyre 2"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.570415035910711,44.856301521407,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Carle Vernet 1"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.549588947997624,44.8180200885227,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Bordeaux Alema Paul Bert"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574892606357527,44.8366889471013,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Jean Marquaux"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.578996171887966,44.8241034892354,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Détrois - D3 La maison bleue"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.60998653255945,44.8412007099433,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Charles Perrens"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.601185617372688,44.8224083739081,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Ludothèque Interlude Chantecrit"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.562714839419228,44.8624194804001,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Ludothèque Interlude du lac"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.570929271942746,44.8793786346908,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Les enfants d'Osiris"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.593845442628924,44.8462031638805,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Mille couleurs"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.58953220155924,44.846425019479,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/yellow-dot.png",
+"description":"Multi accueil Docteur Christiane Larralde"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.59700693780716,44.8289887608561,0]}
+}
+
+]}

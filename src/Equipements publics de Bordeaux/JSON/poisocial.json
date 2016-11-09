@@ -1,0 +1,418 @@
+{"type":"FeatureCollection",
+"features":[
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Nuits"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.552446916858348,44.841616135252,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Vilaris"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.563922243249341,44.8262833163889,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Saumenude"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.566379326890896,44.8318343366927,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club Senior Albert Barraud"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.586992686525911,44.844345465612,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Achard"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.548064723004695,44.869210547654,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Son Tay"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.551901439370459,44.825010818353,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Lumineuse"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.546232065068248,44.8726555173856,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Alfred Smith"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.612676063711337,44.8241740332456,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Bonnefin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.551383072949761,44.8447646204558,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Chantecrit"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.56292706080889,44.8628448544629,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-scolaire Vilaris"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.563814967426476,44.8261943417269,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Buchou"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.565048471224225,44.8218811130216,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Maison de quartier Tauzin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.601157473427647,44.8209652944258,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Gelé de Francony"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.6198313088522,44.8497725027188,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Jardin Public"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572760812252972,44.8564080694238,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Manon Cormier"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.590516240713219,44.8312235810088,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Saint Augustin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.611671910130433,44.8326748520544,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Aubiers"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.571136067988135,44.8733107276326,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Alsace Lorraine"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.568821233432003,44.8381385503822,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Armand Faulat"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.614039382107227,44.8458281614345,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Dubourdieu"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.57748148521039,44.8213719996631,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Maison de quartier AGJA"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.616808046547178,44.8498137207421,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Albert Premier"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569373931118597,44.814425922094,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Magendie"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.575772473332079,44.8332143532937,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Quintin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.599640039313539,44.8236460854157,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Billaudel"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.564658331345514,44.8241088975532,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Reinette"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.541085320581932,44.8507735438305,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Club senior Queyries"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.55855008270822,44.8455202723676,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre local d'information et de coordination (CLIC)"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576671498960112,44.8394409319163,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-social Saint-Michel"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.567961534533861,44.8335189642716,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Maison de quartier Union Saint Jean"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.563847743534304,44.8250679561616,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-social Bastide"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.549290365234222,44.8439273144806,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-scolaire Bel-Air"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.599315893428256,44.8488363289682,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Maison de quartier Saint Augustin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.610692375895897,44.8317425319074,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-scolaire Nuits"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.55249803127328,44.8417311952662,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Maison de quartier Union Saint Bruno"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.591154228172865,44.8387690237122,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-scolaire Gouffrand"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572498557225671,44.855555912368,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Maison de quartier US Chartrons"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.564792405365424,44.8584327636791,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-social Bordeaux Centre"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.583246769506484,44.8456683126775,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Maison de quartier de La Bastide"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.562898108581132,44.845495901338,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-social Saint-Jean"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.559296291934806,44.8287208111121,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-social Bordeaux-Lac"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572766583542513,44.8731707850223,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-social Caudéran"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.619661904458151,44.8554407430415,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Maison de quartier Chantecler"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.57665847597867,44.8539294693791,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Centre médico-social Grand Parc"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576671470650194,44.8552077743152,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/turquoise-dot.png",
+"description":"Maison polyvalente Sarah Bernhardt"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.57091009968541,44.8794056552081,0]}
+}
+
+]}

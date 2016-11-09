@@ -1,0 +1,661 @@
+{"type":"FeatureCollection",
+"features":[
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Boite à lire Charles de Gaulle"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.585049695541402,44.8371585218766,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Chartreuse Saint-André"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.615155400111274,44.8551956416444,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Direction de l'Education et de la Famille"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576607851283129,44.8394335307844,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Salle municipale Saint Augustin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.610431648956764,44.832534389868,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Salle du conseil municipal"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.579328082777599,44.8384014894585,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Direction du Developpement Economique"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.579259003121565,44.8372686614414,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché biologique Saint Amand"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.614530320324729,44.8517279930712,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché d'Intérêt National de Brienne"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.547844413135479,44.8233162587839,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Centre Communal d'Action Sociale"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569017648592563,44.8586238603121,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Salle du Point du jour - Pierre Tachou"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.54425035861305,44.8773058652869,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Mairie de quartier Bordeaux Sud"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.570546567094815,44.828492515191,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Mairie de quartier Bastide"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.55300219225325,44.8416158136249,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Mairie de quartier Bordeaux maritime"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.546072471224482,44.8731635522534,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Pôle Senior"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576667471050264,44.8393599928234,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché de producteurs Saint Seurin "},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.585427373479835,44.8427779571766,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché du pont Saint Emilion"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.538569945864039,44.8535266171796,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché des Pins Francs"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.623372658370374,44.857723071085,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Hôtel de Ville - Mairie de Bordeaux"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.578967101232711,44.8380143922047,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Direction de l'hygiène et de la santé"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.579068066239043,44.837246462191,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Grand déballage de brocante"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.566037588447421,44.8345307555752,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Brocante"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.565859905629018,44.8342650811066,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Boite à lire Dames de la foi"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.580817035337291,44.826631010018,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché du soir"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.559684736921922,44.8427130084219,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Espace Malbec"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.571581993668337,44.8205514852391,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché des Quais"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569266102530499,44.8503695673889,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"La Maison du vélo"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.573727654083752,44.832158371451,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché des Grands Hommes"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.577574635672463,44.8430920144003,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Direction de la voie publique"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576054148144555,44.8379707387084,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Salle Amédée Larrieu"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.581523403135147,44.8303951011265,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Mairie itinérante (Bus) Nansouty"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572176012660048,44.8202844130015,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Maison cantonale"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.552826291856799,44.8415226462949,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Royal"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.566428060381344,44.8344939399031,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Mairie de quartier Caudéran"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.615539437301113,44.8522683486889,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Objets trouvés"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.583850275277527,44.8445725333847,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Médiateur municipal"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.581695281883485,44.8358745334539,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché du Grand-Parc"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.581018500059903,44.8595105258144,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Salle Bel Orme"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.594864573622442,44.8489222194278,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Direction de la Jeunesse et des Sports"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576708971490915,44.8394309834071,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Salle Quintin Loucheur"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.599776772003479,44.8238625549885,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Mairie de quartier Centre ville"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.581390601721342,44.8371248481008,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Mairie de quartier Grand Parc - Paul Doumer / Salle du Grand Parc"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.581662512278139,44.8588278248397,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Mairie de quartier St Michel-Nansouty - St Genès"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.573551487327677,44.8324329409404,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Boite à lire Martyrs de la Résistance"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.584135504363048,44.8419180010666,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Mairie Itinérante (Bus) Saint Jean - Belcier"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.551190262651111,44.8239440865367,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Mairie de quartier Victor Hugo - St Augustin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.61116565826689,44.8330379505253,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Boite à lire Simiot"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.577601923582269,44.8230472358663,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Pey-Berland"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576755706239224,44.837827003262,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Archives municipales"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574881337719943,44.8380542993429,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Boite à lire Linné"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.558928994964873,44.8445778389579,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché des bouquinistes"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.577537713666743,44.8428588278169,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Salle Son Tay"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.551785991648534,44.8249917317115,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché biologique des quais"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569429254443178,44.8500863308005,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Gaviniès"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.593797650759427,44.8330489945994,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Boite à lire Maison cantonale"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.553243151206588,44.8414424463707,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Chartrons"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572385652441936,44.8520110029462,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché de la Lumineuse"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.546567769610619,44.8725706816828,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché des Capucins (plein air)"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.567228552086396,44.8300543896571,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Saint Victor - Dupeux"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.588414148371775,44.8307882779734,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Calixte Camelle"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.550010030307075,44.8428648453426,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Athénée Père Joseph Wresinski"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.577066813575453,44.8397551348796,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Direction des Achats et Marchés"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.579361463304491,44.8372930914343,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Neuf"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.565808748432821,44.834509486202,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Atelier Informatique"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.570554406407709,44.8332376968981,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Pôle technique municipal"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.571377355822913,44.8680782164796,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Annexe mairie de quartier Grand Parc - Paul Doumer"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.581336309122116,44.8476847002843,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Cité municipale"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.581940302490375,44.8382546883646,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Pouyanne"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.577772713425404,44.8250836011734,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Saint Augustin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.610921087845461,44.832775305603,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché des Capucins (couvert)"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.567709203895385,44.8305189115768,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Marie Brizard"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.585719001589454,44.8500575163413,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché Saint Martial"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.565705739936691,44.8588857712845,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Marché des bouquinistes"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572469377482487,44.8523930229474,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/green-dot.png",
+"description":"Maison écocitoyenne"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.567102518521291,44.8387480472717,0]}
+}
+
+]}

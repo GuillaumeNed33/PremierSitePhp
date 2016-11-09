@@ -1,0 +1,125 @@
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+header {
+  width: 100%;
+  height: 153px;
+  position: fixed;
+  top:0;
+  margin:0;
+  background-color: #6d071a;
+  margin-top: 0;
+  padding: 5px;
+  padding-bottom: 5px;
+  margin-left: 297px;
+  float:right;
+  border-radius: 5px;
+}
+
+
+h1, p {
+  color: white;
+  margin : 30px;
+  font-size: 4em;
+
+}
+
+#sidebar {
+  background-color: #6d071a;
+  margin-top: 163px;
+  padding: 0;
+  width: 300px;
+  height: 100%;
+  position: fixed;
+  float: left;
+  color: white;
+  top: 0;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+#sidebar ul {
+  padding-left: 0px;
+  list-style: none;
+}
+
+#sidebar ul li {
+  border-bottom: 0.1em solid white;
+  text-align: center;
+  line-height: 250%;
+  text-decoration: none;
+  padding-bottom: 10px;
+}
+
+a:hover {
+  color: #505050 ;
+}
+
+#Jeux {
+  margin-top: 75px;
+  margin-bottom: 10px;
+  border: solid black;
+  border-right: none;
+  padding: 50px;
+  margin-left: 280px;
+  float: left;
+  width: 305px;
+  height: 250px;
+}
+
+#Jeux2 {
+  margin-top: 75px;
+  margin-bottom: 10px;
+  border: solid black;
+  border-left: none;
+  width: 465px;
+  padding: 50px;
+  float: left;
+  height: 250px;
+}
+
+#Jeux p {
+  font-size: 18px;
+  text-decoration: underline;
+}
+
+#logo {
+Top:10px;
+left : 76px;
+position: fixed;
+width: 150px;
+}
+
+h2 {
+  float: left;
+  color: #6d071a;
+  margin-left: 450px;
+  margin-top: 200px;
+  text-decoration: underline;
+  font-size: 3em;
+  position: fixed;
+}
+
+
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#Q {
+text-decoration:underline;
+}
+
+#droit {
+  position: fixed;
+  margin-left: 1650px;
+  margin-top: 930px;
+  color: #6d071a;
+  text-decoration: underline;
+  font-size: 15px;;
+}

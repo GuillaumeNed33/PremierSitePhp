@@ -1,0 +1,571 @@
+{"type":"FeatureCollection",
+"features":[
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574467312151664,44.8438837199486,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Pierre Trébod"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.584577183300566,44.8611674592142,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572138740169289,44.8423716922678,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Alfred Smith"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.612880665162825,44.8246288668863,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Benauge"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.546770710046757,44.8415949968253,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Buscaillet"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.549668817580285,44.8705977268006,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir République"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.578579667861026,44.8349354916407,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"CHALET DE NECESSITE AVEC DOUCHES"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572441821689467,44.847136163724,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Philippe Lebon"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.548211299705866,44.87699109038,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Lateulade"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.586087834620069,44.8391943310741,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Avenue Thiers"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.545747531899173,44.849346248441,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Albert Brandenburg"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.54438084445224,44.8750695649701,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Cardinal Donnet"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.562906269718091,44.8224082278561,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Boulevard Albert 1er"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.563484428073626,44.8133891925777,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Paul Broca"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.571894569744631,44.8314301072816,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Dormoy"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.564321470670066,44.8267129011554,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Nansouty"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572012193533953,44.8202975395057,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Simiot"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.577383972080092,44.8229896978552,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Calixte Camelle"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.550259965161317,44.8430567057489,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Edouard Laroque"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.601448460338731,44.83155637711,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir André Meunier"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.562917322479597,44.829530512184,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Arlac"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.588363598189398,44.830789557383,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Frantz Schrader"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.607806284750287,44.835185610133,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Urinoir Ferdinand Palau"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.545190734088545,44.8429220037914,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.582568237883878,44.8386928250834,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.56727848446677,44.8387910517145,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"Sanitaire automatique"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.6214603566178,44.8570871025109,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.599287298022792,44.8535319679415,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.56594780098854,44.904904108173,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.582290857486657,44.8605917147978,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"SANITAIRE AUTOMATIQUE"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.616170914392001,44.8516061819138,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.610951424066316,44.8331408015695,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.60333974270816,44.8295117974338,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.594328151025758,44.8330130187272,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.573314789766353,44.8446463221507,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572454186136095,44.8352494948124,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.57562356883447,44.8411420095674,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.567017406588822,44.8526618303676,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569853946277985,44.8490497773707,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574045258693568,44.8519742996232,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.57033289016278,44.846846166257,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574961625738932,44.8469010201312,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574071638244236,44.8348111746368,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.577106102676729,44.8332744380251,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.580138546512449,44.8348205141139,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.573131616843663,44.8312773849294,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.566810186772343,44.8305549317135,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.562930340486213,44.8348916982116,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.565009886418641,44.8343995830601,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.561166641420188,44.8336657953068,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.558533509304403,44.8320266626823,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.551315305466965,44.8241647655615,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.557660463023604,44.8261417606178,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.559629408676257,44.8410481005709,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.560001058926109,44.8398258029106,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.549898050931639,44.8428114584717,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.565072869268665,44.845339445957,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.56130163984137,44.8500481634925,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.578258477685363,44.8477844235551,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.580998810630376,44.8500024060006,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.585326967352431,44.8432468185118,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.582448436000721,44.8405083028447,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/blue-dot.png",
+"description":"TOILETTES MIXTES PMR"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.599238334808374,44.8242721021416,0]}
+}
+
+]}

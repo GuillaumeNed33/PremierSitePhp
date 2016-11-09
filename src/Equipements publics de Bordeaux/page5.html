@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Equipements public de Bordeaux</title>
+  <link rel="icon" type="image/png" href="images/logo.png" />
+<link href="CSS/style.css" rel="stylesheet" type="text/css"/>
+  <style>
+  #map-canvas {
+  width: 1200px;
+  height: 600px;
+  background-color: #CCC;
+  margin-left: 400px;
+  margin-right: 30%;
+  border: solid black 3px;
+  border-radius: 9px;
+  float: left;
+  position: fixed;
+  top: 300px;
+  }
+    </style>
+
+  <script src="https://maps.googleapis.com/maps/api/js"></script>
+
+  <script>
+    // la carte
+      var map;
+    // la fenetre qui s'ouvre quand on passe la souris sur un point
+    var infowindow = new google.maps.InfoWindow();
+
+    // fonction executee une fois la page chargee
+      function initialize() {
+
+      // initialisation de la carte
+        var mapOptions = {
+          zoom: 12,
+          center: {lat: 44.859985, lng: -0.568709},
+          mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+        map = new google.maps.Map(document.getElementById('map-canvas'),
+          mapOptions);
+
+      // un clic sur la carte ferme les infowindows
+        google.maps.event.addListener(map, 'click', function() {
+          infowindow.close();
+        });
+
+      // on charge les points depuis les fichiers json
+      map.data.loadGeoJson('JSON/poisocial.json');
+
+      // on utilise la propriete icon dans le json pour l'icone a afficher
+      var setColorStyleFn = function(feature) {
+        return {icon: feature.getProperty('icon')};
+      };
+      map.data.setStyle(setColorStyleFn);
+
+        // quand on passe la souris sur un point,
+        // afficher une fenetre avec des infos
+        // provenant de la propriete 'description' du point dans le json
+      map.data.addListener('mouseover', function(event) {
+          infowindow.setContent(event.feature.getProperty('description'));
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+          infowindow.open(map);
+        });
+
+    } // fin initialize
+
+      // appelle initialize une fois la page chargee
+      google.maps.event.addDomListener(window, 'load', initialize);
+  </script>
+
+</head>
+  <body>
+    <header>
+      <h1>Établissements sociaux</h1>
+    </header>
+
+    <a href=index.html><img id="logo" src="images/logo.png" alt="Logo" /></a>
+
+    <nav id="sidebar">
+      <ul>
+        <li><a id="Q" href="quartier.html">Quartiers</li></a>
+        <li><a href="page1.html">Établissements Culturels</li></a>
+        <li><a href="page2.html">Écoles maternelles et Primaires</li></a>
+        <li><a href="page3.html">Établissements pour la petite enfance</li></a>
+        <li><a href="page4.html">Établissement et lieux de services</li></a>
+        <li><a href="page5.html">Établissements sociaux</li></a>
+        <li><a href="page6.html">Lieux de sports et loisirs</li></a>
+        <li><a href="page7.html">Toilettes publiques</li></a>
+        <li><a href="page8.html">Les parkings publics</li></a>
+        <li><a href="page9.html">Les points d’accès à internet</li></a>
+        <li><a href="page10.html"> Les mobiliers urbains pour le stationnement des 2 roues</li></a>
+        <li><a href="page11.html">Les Aires de jeux</li></a>
+        <li><a href="page12.html">Parcs, jardins et squares</li></a>
+      </ul>
+    </nav>
+
+    <h2> Carte de Bordeaux </h2>
+    <div id="map-canvas"></div>
+    </div>
+
+  <p id="droit">GTB© -Tous droits reservés.-</p>
+
+  </body>
+</html>

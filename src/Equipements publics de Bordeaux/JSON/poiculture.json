@@ -1,0 +1,310 @@
+{"type":"FeatureCollection",
+"features":[
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Musée des Arts Décoratifs"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.57996033094378,44.838898803286,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Musée national des Douanes"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569788222488411,44.8410008174732,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Entrepôt Lainé - CAPC Musée d'art contemporain"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572176541509934,44.8485675572329,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Base sous-marine"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.558433976876994,44.8703967587519,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Galerie des Beaux-Arts"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.581915029222318,44.8387594432029,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Centre Jean Moulin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.577659972638739,44.8387046699165,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque Tauzin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.601916530460525,44.8204597507053,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"FRAC d'aquitaine"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.554443847215953,44.8616542775781,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Musée des Beaux Arts"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.581121228129668,44.8380681162253,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Musée Goupil"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574875113282499,44.8358933739582,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque Flora Tristan"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.550625445847239,44.8213797840793,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Musée d'Aquitaine"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574699622324933,44.8356726794755,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Muséum d'Histoire naturelle - Hôtel de Lisleferme"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.58014188430362,44.8483849727316,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque mobile - Parc bordelais"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.599436738123866,44.8525071197929,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque Capucins - St Michel"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.566984052726453,44.830905196305,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque mobile - Place Nansouty"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572126362383552,44.8203036713662,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque mobile - Place Paul Doumer"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.5741436730258,44.8517946118373,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque de Bordeaux Lac"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.572946079890182,44.8737245426519,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque du Jardin Public"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.580188512277851,44.8480506307819,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque mobile - Avenue Bel Air"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.607625311199981,44.8406762867447,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque mobile - Cours Saint Louis"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.5673465263622,44.8629609175212,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque mobile - Marché Stéhelin"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.623131734815062,44.8579358015084,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque de la Bastide"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.542171497551466,44.8432943383881,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Office du Tourisme de Bordeaux"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.574198848341553,44.843672274326,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque de Bacalan"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.546221452408897,44.8718182045595,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque du Grand Parc"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.583974556940011,44.8578126490484,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque Centrale de Mériadeck"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.586807488102576,44.8353582087954,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Office de Tourisme - Gare St Jean"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.556916871544911,44.8251245646387,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque mobile - Rue Serr"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.561023045686356,44.8415703185136,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Musée du vin et du négoce de Bordeaux"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.569460646547184,44.8545427361766,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Comité départemental de tourisme de la Gironde"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.576423417954933,44.8420855000529,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Muséum d'Histoire naturelle - Pavillon administratif"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.579478836738451,44.8490500142768,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Bibliothèque mobile - Place des Martyrs de la Resistance"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.614608147580614,44.8511215141936,0]}
+},
+
+{"type":"Feature",
+"properties":
+{"icon":"images/red-dot.png",
+"description":"Comité régional du tourisme Aquitaine"},
+"geometry":
+{"type":"Point",
+"coordinates":[-0.570846672445185,44.8498255992353,0]}
+}
+
+]}
