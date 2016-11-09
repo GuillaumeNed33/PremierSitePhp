@@ -1,0 +1,24 @@
+#id_pic {
+  text-align: center;
+}
+
+img {
+  width: 160px;
+  height: 203.25px;
+}
+
+div {
+  margin-bottom: 25px;
+}
+
+section {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 25px;
+}
+
+span {
+  font-size: 24px;
+}

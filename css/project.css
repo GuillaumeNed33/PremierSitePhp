@@ -1,0 +1,28 @@
+section {
+  text-align: center;
+}
+
+.carousel {
+  height: 600px;
+  margin-bottom: 60px;
+}
+
+.carousel-inner .item img {
+  height: 600px;
+  min-width: 100%;
+}
+
+.carousel .item {
+  height: 600px;
+}
+
+.carousel-indicators li {
+    background: #777;
+}
+.carousel-indicators .active {
+    background: black;
+}
+
+.carousel-caption {
+  color: black;
+}

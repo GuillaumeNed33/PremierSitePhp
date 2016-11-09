@@ -1,0 +1,55 @@
+body{
+ background-image:url(../images/pattern.jpg);
+  background-size: cover;
+  background-attachment:fixed;
+}
+
+[class*="col-"] {
+  text-align: center;
+}
+
+header {
+  height: 400px;
+}
+
+header div {
+  padding-top: 100px;
+  color: white;
+  text-align: center;
+}
+
+header div h1{
+  font-size: 58px;
+}
+
+header div h1 a {
+  color: white;
+  text-decoration: none;
+}
+header div h1 a:hover {
+  color: white;
+}
+
+header div h2{
+  margin-top: 5%;
+  font-size: 48px;
+}
+
+section {
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #F0FFFF;
+  border-radius: 15px;
+  box-shadow: 0.063em 0.063em 0.750em black;
+  opacity: 0.9;
+}
+
+footer {
+  color: white;
+  margin-top: 50px;
+  font-size: 18px;
+  text-align: center;
+}
